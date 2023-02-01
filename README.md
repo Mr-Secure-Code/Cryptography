@@ -76,7 +76,7 @@
 	
 	Examples of symmetric key algorithms include **AES**,**DES** And **Blowfish**.
 
--	**AES (Advanced Encryption Standard)**
+-	**[AES (Advanced Encryption Standard)](https://medium.com/@ritesh_sahu/cryptography-1fc4d99e56cc)**
 
 -	**DES (Data Encryption Standard)**
 
