@@ -1,4 +1,4 @@
-# Cryptography.
+# [Cryptography.](https://medium.com/@ritesh_sahu/cryptography-1fc4d99e56cc)
 ## Introduction.	
 
 -	**Introduction to Cryptography?**
@@ -80,7 +80,7 @@
 
 -	**DES (Data Encryption Standard)**
 
--	**Twofish**
+-	**Blowfish**
 
 ## Asymmetric key Cryptography.
 
