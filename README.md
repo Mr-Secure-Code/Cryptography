@@ -78,7 +78,7 @@
 
 -	**[AES (Advanced Encryption Standard)](https://medium.com/@ritesh_sahu/cryptography-1fc4d99e56cc)**
 
--	**DES (Data Encryption Standard)**
+-	**[DES (Data Encryption Standard)](https://medium.com/@ritesh_sahu/a-comprehensive-guide-to-the-data-encryption-standard-des-algorithm-in-cryptography-7e29a3cbfd05)**
 
 -	**Blowfish**
 
