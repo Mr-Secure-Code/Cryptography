@@ -1,4 +1,5 @@
-# [Cryptography.](https://medium.com/@ritesh_sahu/cryptography-1fc4d99e56cc)
+<h1 align="center"><a href="https://medium.com/@ritesh_sahu/cryptography-1fc4d99e56cc">Cryptography</a></h1>
+
 ## Introduction.	
 
 -	**Introduction to Cryptography?**
